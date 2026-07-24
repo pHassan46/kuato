@@ -1,6 +1,6 @@
 {
   "name": "kuato",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Built for Claude Code but works in any agent that supports skills, easily recall what you discussed with your favorite coding agents, what decisions you made, and where you left off so you can pick up where you left off as easily as asking \"where did we leave off on XYZ...\"",
   "main": "src/index.ts",
   "scripts": {
